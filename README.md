@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlinhos18&label=Profile%20views&color=0e75b6&style=flat" alt="carlinhos18" /> </p>
 
-- 🔭 I’m currently working on **LCOM PROJECT**
-
-- 🌱 I’m currently learning **HTML,PHP,JAVASCRIPT,CSS**
+- 🌱 I’m currently learning about **NEOVIM**
 
 - 📫 How to reach me **carloslisboa2005@gmail.com**
 
